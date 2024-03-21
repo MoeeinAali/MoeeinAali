@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoeeinAali&radius=16&theme=merko&area=true&order=5&hide_border=false" height="260" alt="activity-graph graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeeinAali&theme=merko"&area=true&order=5&hide_border=false" height="212" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeeinAali&theme=merko"&area=true&order=5&hide_border=false" height="212" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoeeinAali&radius=16&theme=merko&area=true&order=5&hide_border=false" height="260" alt="activity-graph graph"  />
 </div>
 
 <div align="center">
@@ -20,9 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=MoeeinAali&theme=onestar&column=10&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
 <img src="https://raw.githubusercontent.com/MoeeinAali/MoeeinAali/output/snake.svg" alt="Snake animation" />
-
 
 <div align="center">
   <a href="https://t.me/Moeein_Aali" target="_blank">
