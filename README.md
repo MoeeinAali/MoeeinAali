@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoeeinAali&radius=16&theme=merko&area=true&order=5&hide_border=false" height="263" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoeeinAali&radius=16&theme=merko&area=true&order=5&hide_border=false" height="260" alt="activity-graph graph"  />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeeinAali&theme=merko" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeeinAali&theme=merko"&area=true&order=5&hide_border=false" height="212" />
 </div>
 
 <div align="center">
