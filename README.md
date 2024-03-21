@@ -1,18 +1,12 @@
 <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoeeinAali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=MoeeinAali&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoeeinAali&radius=16&theme=merko&area=true&order=5&hide_border=false" height="263" alt="activity-graph graph"  />
 </div>
-
-
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoeeinAali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="230" alt="languages graph"  />
@@ -22,13 +16,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=MoeeinAali&theme=onestar&column=10&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/MoeeinAali/MoeeinAali/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <a href="https://t.me/Moeein_Aali" target="_blank">
@@ -48,12 +38,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MoeeinAali/count.svg?"  />
 </div>
-
-###
+</div>
