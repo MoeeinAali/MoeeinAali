@@ -16,9 +16,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoeeinAali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="230" alt="languages graph"  />
 </div>
 
+
+
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=MoeeinAali&theme=onestar&column=10&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <img src="https://raw.githubusercontent.com/MoeeinAali/MoeeinAali/output/snake.svg" alt="Snake animation" />
 
