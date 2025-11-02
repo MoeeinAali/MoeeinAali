@@ -45,7 +45,4 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MoeeinAali/count.svg?"  />
-</div>
 </div>
