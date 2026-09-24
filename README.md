@@ -40,164 +40,57 @@ the same skill.
 
 <br />
 
-## Stack
+## Skills & Technologies
 
-The full breakdown my site's Skills section shows, category by category.
+`120 technologies across 12 areas — grouped by the kind of work, and drawn from what I've actually shipped and published.`
 
-**Languages** — TypeScript and Python daily, Go for concurrent services, C and Assembly from systems coursework.
+**Languages** <sub>(12 items)</sub>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-27272A?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-27272A?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-27272A?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-27272A?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-27272A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-27272A?style=flat-square&logo=python&logoColor=3776AB) ![Go](https://img.shields.io/badge/Go-27272A?style=flat-square&logo=go&logoColor=00ADD8) ![Java](https://img.shields.io/badge/Java-27272A?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Kotlin](https://img.shields.io/badge/Kotlin-27272A?style=flat-square&logo=kotlin&logoColor=7F52FF) ![C](https://img.shields.io/badge/C-27272A?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C%2B%2B-27272A?style=flat-square&logo=cplusplus&logoColor=00599C) ![SQL](https://img.shields.io/badge/SQL-27272A?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-27272A?style=flat-square&logo=gnubash&logoColor=4EAA25) ![Assembly](https://img.shields.io/badge/Assembly-27272A?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-27272A?style=flat-square)
 
-**Frontend Engineering** — React and Next.js architecture: routing, rendering strategy, and state boundaries.
+**Frontend Engineering** <sub>(9 items)</sub>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-27272A?style=for-the-badge)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![React](https://img.shields.io/badge/React-27272A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-27272A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Vite](https://img.shields.io/badge/Vite-27272A?style=flat-square&logo=vite&logoColor=646CFF) ![HTML](https://img.shields.io/badge/HTML-27272A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-27272A?style=flat-square&logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-27272A?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![SCSS](https://img.shields.io/badge/SCSS-27272A?style=flat-square&logo=sass&logoColor=CC6699) ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-27272A?style=flat-square) ![PWA](https://img.shields.io/badge/PWA-27272A?style=flat-square&logo=pwa&logoColor=5A0FC8)
 
-**State & Data Fetching** — server state and client state kept deliberately separate; schemas shared between forms and API types.
+**State & Data Fetching** <sub>(7 items)</sub>
 
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-27272A?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-27272A?style=flat-square&logo=reactquery&logoColor=FF4154) ![Zustand](https://img.shields.io/badge/Zustand-27272A?style=flat-square) ![Zod](https://img.shields.io/badge/Zod-27272A?style=flat-square&logo=zod&logoColor=3E67B1) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-27272A?style=flat-square&logo=reacthookform&logoColor=EC5990) ![Axios](https://img.shields.io/badge/Axios-27272A?style=flat-square&logo=axios&logoColor=5A29E4) ![Apollo Client](https://img.shields.io/badge/Apollo%20Client-27272A?style=flat-square&logo=apollographql&logoColor=311C87) ![GraphQL](https://img.shields.io/badge/GraphQL-27272A?style=flat-square&logo=graphql&logoColor=E10098)
 
-**UI & Motion** — component systems built to a design language, plus animation work from interactive ad campaigns.
+**UI & Motion** <sub>(13 items)</sub>
 
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
-![Base UI](https://img.shields.io/badge/Base%20UI-27272A?style=for-the-badge)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Lottie.JS](https://img.shields.io/badge/Lottie.JS-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white)
-![ModelViewer](https://img.shields.io/badge/ModelViewer-27272A?style=for-the-badge)
-![DnDKit](https://img.shields.io/badge/DnDKit-27272A?style=for-the-badge)
-![React Flow](https://img.shields.io/badge/React%20Flow-27272A?style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-27272A?style=flat-square&logo=shadcnui&logoColor=FFFFFF) ![Radix UI](https://img.shields.io/badge/Radix%20UI-27272A?style=flat-square&logo=radixui&logoColor=FFFFFF) ![Base UI](https://img.shields.io/badge/Base%20UI-27272A?style=flat-square&logo=baseui&logoColor=FFFFFF) ![Ant Design](https://img.shields.io/badge/Ant%20Design-27272A?style=flat-square&logo=antdesign&logoColor=0170FE) ![Material UI](https://img.shields.io/badge/Material%20UI-27272A?style=flat-square&logo=mui&logoColor=007FFF) ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-27272A?style=flat-square&logo=chakraui&logoColor=319795) ![Bootstrap](https://img.shields.io/badge/Bootstrap-27272A?style=flat-square&logo=bootstrap&logoColor=7952B3) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-27272A?style=flat-square&logo=framer&logoColor=0055FF) ![GSAP](https://img.shields.io/badge/GSAP-27272A?style=flat-square&logo=greensock&logoColor=88CE02) ![Lottie.JS](https://img.shields.io/badge/Lottie.JS-27272A?style=flat-square&logo=lottiefiles&logoColor=00DDB3) ![ModelViewer](https://img.shields.io/badge/ModelViewer-27272A?style=flat-square) ![DnDKit](https://img.shields.io/badge/DnDKit-27272A?style=flat-square) ![React Flow](https://img.shields.io/badge/React%20Flow-27272A?style=flat-square)
 
-**Backend Engineering** — REST and GraphQL services across four ecosystems, including a Go web server written from scratch.
+**Backend Engineering** <sub>(13 items)</sub>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ACD7?style=for-the-badge&logo=gin&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-27272A?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-27272A?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-27272A?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-27272A?style=flat-square&logo=django&logoColor=092E20) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-27272A?style=flat-square&logo=django&logoColor=092E20) ![Nest.js](https://img.shields.io/badge/Nest.js-27272A?style=flat-square&logo=nestjs&logoColor=E0234E) ![Express.js](https://img.shields.io/badge/Express.js-27272A?style=flat-square&logo=express&logoColor=FFFFFF) ![Fastify](https://img.shields.io/badge/Fastify-27272A?style=flat-square&logo=fastify&logoColor=FFFFFF) ![FastAPI](https://img.shields.io/badge/FastAPI-27272A?style=flat-square&logo=fastapi&logoColor=009688) ![Flask](https://img.shields.io/badge/Flask-27272A?style=flat-square&logo=flask&logoColor=FFFFFF) ![Gin](https://img.shields.io/badge/Gin-27272A?style=flat-square&logo=gin&logoColor=00ACD7) ![Fiber](https://img.shields.io/badge/Fiber-27272A?style=flat-square) ![Socket.io](https://img.shields.io/badge/Socket.io-27272A?style=flat-square&logo=socketdotio&logoColor=FFFFFF) ![REST APIs](https://img.shields.io/badge/REST%20APIs-27272A?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-27272A?style=flat-square&logo=graphql&logoColor=E10098) ![Microservices](https://img.shields.io/badge/Microservices-27272A?style=flat-square)
 
-**Data & Messaging** — relational by default, Redis for hot paths, message queues where work should outlive the request.
+**Data & Messaging** <sub>(11 items)</sub>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-27272A?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-27272A?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-27272A?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-27272A?style=flat-square&logo=mongodb&logoColor=47A248) ![Redis](https://img.shields.io/badge/Redis-27272A?style=flat-square&logo=redis&logoColor=DC382D) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-27272A?style=flat-square&logo=elasticsearch&logoColor=005571) ![Neo4j](https://img.shields.io/badge/Neo4j-27272A?style=flat-square&logo=neo4j&logoColor=008CC1) ![Kafka](https://img.shields.io/badge/Kafka-27272A?style=flat-square&logo=apachekafka&logoColor=FFFFFF) ![NATS](https://img.shields.io/badge/NATS-27272A?style=flat-square&logo=natsdotio&logoColor=27AAE1) ![Prisma](https://img.shields.io/badge/Prisma-27272A?style=flat-square&logo=prisma&logoColor=2D3748) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-27272A?style=flat-square&logo=sqlalchemy&logoColor=D71F00) ![GORM](https://img.shields.io/badge/GORM-27272A?style=flat-square)
 
-**Systems & Concurrency** — goroutine-based services, a minimal container runtime in C, and OS coursework at Sharif.
+**Systems & Concurrency** <sub>(9 items)</sub>
 
-![Concurrency](https://img.shields.io/badge/Concurrency-27272A?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Namespaces](https://img.shields.io/badge/Namespaces-27272A?style=for-the-badge)
-![cgroups](https://img.shields.io/badge/cgroups-27272A?style=for-the-badge)
-![Processes & Threads](https://img.shields.io/badge/Processes%20%26%20Threads-27272A?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-27272A?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-27272A?style=for-the-badge)
-![Compiler Design](https://img.shields.io/badge/Compiler%20Design-27272A?style=for-the-badge)
-![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-27272A?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-27272A?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-27272A?style=flat-square&logo=linux&logoColor=FCC624) ![Namespaces](https://img.shields.io/badge/Namespaces-27272A?style=flat-square) ![cgroups](https://img.shields.io/badge/cgroups-27272A?style=flat-square) ![Processes & Threads](https://img.shields.io/badge/Processes%20%26%20Threads-27272A?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-27272A?style=flat-square) ![GDB](https://img.shields.io/badge/GDB-27272A?style=flat-square) ![Compiler Design](https://img.shields.io/badge/Compiler%20Design-27272A?style=flat-square) ![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-27272A?style=flat-square)
 
-**DevOps & Tooling** — containerised services deployed to Kubernetes, with CI/CD and code-review workflows for production delivery.
+**DevOps & Tooling** <sub>(13 items)</sub>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Gerrit](https://img.shields.io/badge/Gerrit-000000?style=for-the-badge&logo=gerrit&logoColor=EEEEEE)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-27272A?style=flat-square&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-27272A?style=flat-square&logo=kubernetes&logoColor=326CE5) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-27272A?style=flat-square&logo=githubactions&logoColor=2088FF) ![Jenkins](https://img.shields.io/badge/Jenkins-27272A?style=flat-square&logo=jenkins&logoColor=D24939) ![Gerrit](https://img.shields.io/badge/Gerrit-27272A?style=flat-square&logo=gerrit&logoColor=EEEEEE) ![Nginx](https://img.shields.io/badge/Nginx-27272A?style=flat-square&logo=nginx&logoColor=009639) ![Git](https://img.shields.io/badge/Git-27272A?style=flat-square&logo=git&logoColor=F05032) ![AWS S3](https://img.shields.io/badge/AWS%20S3-27272A?style=flat-square&logo=amazons3&logoColor=569A31) ![Vercel](https://img.shields.io/badge/Vercel-27272A?style=flat-square&logo=vercel&logoColor=FFFFFF) ![Swagger](https://img.shields.io/badge/Swagger-27272A?style=flat-square&logo=swagger&logoColor=85EA2D) ![Postman](https://img.shields.io/badge/Postman-27272A?style=flat-square&logo=postman&logoColor=FF6C37) ![Metabase](https://img.shields.io/badge/Metabase-27272A?style=flat-square&logo=metabase&logoColor=509EE3) ![FFmpeg](https://img.shields.io/badge/FFmpeg-27272A?style=flat-square&logo=ffmpeg&logoColor=007808)
 
-**AI & Data Science** — a retrieval-augmented assistant end to end, plus ML and statistics coursework in Jupyter.
+**AI & Data Science** <sub>(12 items)</sub>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-27272A?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-27272A?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-27272A?style=for-the-badge)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-27272A?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-27272A?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-27272A?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-27272A?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![scikit--learn](https://img.shields.io/badge/scikit--learn-27272A?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![LangChain](https://img.shields.io/badge/LangChain-27272A?style=flat-square&logo=langchain&logoColor=1C3C3C) ![FAISS](https://img.shields.io/badge/FAISS-27272A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-27272A?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-27272A?style=flat-square) ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-27272A?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-27272A?style=flat-square&logo=numpy&logoColor=013243) ![Pandas](https://img.shields.io/badge/Pandas-27272A?style=flat-square&logo=pandas&logoColor=150458) ![Matplotlib](https://img.shields.io/badge/Matplotlib-27272A?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-27272A?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-27272A?style=flat-square&logo=jupyter&logoColor=F37626)
 
-**Testing & Quality** — typed end to end, with tests on the logic that carries real risk.
+**Testing & Quality** <sub>(6 items)</sub>
 
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![TypeScript strict](https://img.shields.io/badge/TypeScript%20strict-27272A?style=for-the-badge)
+![Vitest](https://img.shields.io/badge/Vitest-27272A?style=flat-square&logo=vitest&logoColor=6E9F18) ![Jest](https://img.shields.io/badge/Jest-27272A?style=flat-square&logo=jest&logoColor=C21325) ![Storybook](https://img.shields.io/badge/Storybook-27272A?style=flat-square&logo=storybook&logoColor=FF4785) ![ESLint](https://img.shields.io/badge/ESLint-27272A?style=flat-square&logo=eslint&logoColor=4B32C3) ![Prettier](https://img.shields.io/badge/Prettier-27272A?style=flat-square&logo=prettier&logoColor=F7B93E) ![TypeScript strict](https://img.shields.io/badge/TypeScript%20strict-27272A?style=flat-square)
 
-**Mobile** — native Android in Kotlin, and a TWA shipped alongside a production web build.
+**Mobile** <sub>(5 items)</sub>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TWA](https://img.shields.io/badge/TWA-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![XML Layouts](https://img.shields.io/badge/XML%20Layouts-27272A?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-27272A?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Android](https://img.shields.io/badge/Android-27272A?style=flat-square&logo=android&logoColor=3DDC84) ![Flutter](https://img.shields.io/badge/Flutter-27272A?style=flat-square&logo=flutter&logoColor=02569B) ![TWA](https://img.shields.io/badge/TWA-27272A?style=flat-square&logo=android&logoColor=3DDC84) ![XML Layouts](https://img.shields.io/badge/XML%20Layouts-27272A?style=flat-square)
 
-**Documentation & Design** — course notes and theses in LaTeX; interfaces designed in Figma before they're built.
+**Documentation & Design** <sub>(10 items)</sub>
 
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
-![KaTeX](https://img.shields.io/badge/KaTeX-27272A?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-27272A?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-27272A?style=flat-square&logo=latex&logoColor=008080) ![Typst](https://img.shields.io/badge/Typst-27272A?style=flat-square&logo=typst&logoColor=239DAD) ![Markdown](https://img.shields.io/badge/Markdown-27272A?style=flat-square&logo=markdown&logoColor=FFFFFF) ![Docusaurus](https://img.shields.io/badge/Docusaurus-27272A?style=flat-square&logo=docusaurus&logoColor=3ECC5F) ![Jekyll](https://img.shields.io/badge/Jekyll-27272A?style=flat-square&logo=jekyll&logoColor=CC0000) ![KaTeX](https://img.shields.io/badge/KaTeX-27272A?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-27272A?style=flat-square&logo=figma&logoColor=F24E1E) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-27272A?style=flat-square&logo=adobephotoshop&logoColor=31A8FF) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-27272A?style=flat-square&logo=adobeillustrator&logoColor=FF9A00) ![Canva](https://img.shields.io/badge/Canva-27272A?style=flat-square)
 
 <br />
 
